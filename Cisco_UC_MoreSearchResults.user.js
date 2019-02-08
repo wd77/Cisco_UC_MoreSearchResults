@@ -3,8 +3,8 @@
 // @namespace    http://wd77.de/
 // @version      2019.02.1
 // @description  Changes your Cisco CUCM Admin Search to display more results
-// @author       Werner Drasch <werner.drasch@wd77.de>
-// @supportURL   https://github.com/wd77/userscripts/issues
+// @author       Werner Drasch <werner.drasch@gmail.com>
+// @supportURL   https://github.com/wd77/Cisco_UC_MoreSearchResults/issues
 // @match        http*://IP_OR_FQDN_OF_CALLMANAGER/ccmadmin/*
 // @grant        none
 // ==/UserScript==
